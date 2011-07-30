@@ -1,2 +1,7 @@
 # Schedules #
 
+## Timeline ##
+
+- Assembly
+- Rough Cut
+- Fine Cut
